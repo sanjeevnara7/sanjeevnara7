@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjeevnara7
 - 👀 I’m interested in Computer Science, ML Engineering involving Deep Learning and the like
-- 💞️ I’m looking to collaborate on projects real-world applications of Deep Learning
+- 💞️ I’m looking to collaborate on projects involving real-world applications of Deep Learning
 - 📫 HMU @ LinkedIn www.linkedin.com/in/sanjeevnarasimhan
 
 <!---
